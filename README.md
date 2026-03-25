@@ -2,7 +2,7 @@
 
 ### Agentic Storytelling Litepaper
 
-**Consumer Edition v2.1** · March 2026
+March 2026
 
 ---
 
