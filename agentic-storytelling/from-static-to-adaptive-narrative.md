@@ -1,23 +1,8 @@
 # From Static to Adaptive Narrative
 
-Most campaign systems still run on delayed loops:
+Most campaign systems still run on delayed loops. Agentic storytelling changes the loop entirely.
 
-```
-plan → publish → wait → summarize → adjust
-```
-
-Agentic storytelling changes the loop to:
-
-```
-observe → interpret → adapt → verify → learn
-```
-
-<!-- TODO: Replace with the visual diagram from the Google Doc -->
-<!--
-The diagram shows two contrasting loops:
-- Static: linear, delayed feedback
-- Adaptive: continuous, real-time feedback with agent layer
--->
+<figure><img src="../.gitbook/assets/campaign-loops.png" alt="Traditional campaign loop vs. Agentic storytelling loop"><figcaption>Traditional campaigns are delayed, sequential, and reactive. Agentic storytelling is continuous, adaptive, and intelligent.</figcaption></figure>
 
 The difference is not only speed. It is **accountability**.
 
