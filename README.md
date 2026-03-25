@@ -1,6 +1,4 @@
-# Harmony
-
-### Agentic Storytelling Litepaper
+# Harmony Agentic Storytelling Litepaper
 
 March 2026
 
