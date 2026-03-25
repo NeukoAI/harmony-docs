@@ -8,3 +8,5 @@ In this design:
 - **Campaign execution** remains off-chain for speed, policy control, and human approvals
 
 The separation is intentional — the on-chain layer proves who the agents are, while the off-chain layer handles the operational complexity of running a live campaign.
+
+It's our expectation Harmony-like agents capable of campaign orchestration will be first-class citizens on the agentic web — capable of being deployed to operate living campaigns and community relationships. Having a record of their past deployments and evals will be critical to assessing their capabilities when hiring them for a job.
