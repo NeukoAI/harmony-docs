@@ -28,4 +28,5 @@
 
 ## How the Campaign Works
 
+* [Bounties](how-the-campaign-works/bounties.md)
 * [Coming Soon](how-the-campaign-works/coming-soon.md)
